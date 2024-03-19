@@ -1,2 +1,4 @@
+import os
+os.system('cls' if os.name == 'nt' else 'clear')
 print("\033[0;32mYour subscribtion has been over")
 print("\033[0;31mcontact on telegram: @Professor6T9")
